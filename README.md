@@ -12,8 +12,9 @@
 ---
 
 ## 🚀 Demo
-![Demo](assets/demo.png)
-*Replace with a real screenshot or GIF of the project in action.*
+[![Watch the Demo](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1VnYx8GrsQ_RTE0VKjCUbmoR_bjvI232j/view?usp=sharing)
+
+*Click the badge above to see the project in action.*
 
 ---
 
