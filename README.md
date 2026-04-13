@@ -19,7 +19,7 @@
 ---
 
 ## 📖 About
-**Qu-Alz** is a cutting-edge healthcare solution developed for the **SEA Quantathon 2025** by team **The Qure**. It leverages **Quantum Machine Learning (QML)** and deep learning to provide early detection and risk assessment for Alzheimer's disease.
+**Qu-Alz** is a cutting-edge healthcare solution that leverages **Quantum Machine Learning (QML)** and deep learning to provide early detection and risk assessment for Alzheimer's disease.
 
 By introducing the **Quantum Entanglement Entropy Score (EES)**—a fundamentally quantum-only biomarker—this project identifies subtle patterns in MRI data that classical machine learning kernels cannot compute. This innovation aims to push the boundaries of early neurodegenerative disease diagnosis using the power of quantum information theory.
 
@@ -80,9 +80,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🏆 Hackathon Details
-- **Event:** SEA Quantathon 2025 (Healthcare & Medicine Track)
-- **Location:** Bangkok, Thailand
-- **Team:** The Qure
-- **Project Name:** Qu-Alz (Quantum Alzheimer’s Prediction)
-- **Theme:** Prototyping quantum solutions for social good in Southeast Asia.
+*Originally developed for the **SEA Quantathon 2025** (Healthcare & Medicine Track) by Team **The Qure**.*
