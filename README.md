@@ -49,28 +49,26 @@ By introducing the **Quantum Entanglement Entropy Score (EES)**—a fundamentall
 ---
 
 ## 📂 Project Structure
-- `alzheimers-prediction-interface/`: Next.js web application for clinicians.
-- `Classifier/`: CNN and QCNN (Quantum CNN) models for disease stage prediction.
-- `Segmentation/`: U-Net models and scripts for MRI image segmentation.
-- `Risk/`: Quantum EES pipeline and risk assessment models.
-- `docs/`: Project documentation and presentation materials (SEA Quantathon 2025).
+- `interface/`: Next.js web application for clinical triage.
+- `classifier/`: CNN and QCNN (Quantum CNN) models for Alzheimer's stage prediction.
+- `segmentation/`: U-Net models and scripts for automated brain MRI segmentation.
+- `quantum-risk/`: Quantum EES (Entanglement Entropy Score) pipeline and risk assessment.
+- `docs/`: Project documentation, presentation materials, and diagnostic results.
 
 ---
 
 ## 🚦 Getting Started
 
-### **1. Frontend Interface**
+### **1. Web Interface**
 ```bash
-cd alzheimers-prediction-interface
+cd interface
 npm install --legacy-peer-deps
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) to see the dashboard.
 
 ### **2. Quantum & AI Models**
-Ensure you have Python 3.10+ installed.
 ```bash
-cd Risk
+cd quantum-risk
 pip install -r requirements.txt
 python test_quantum_ees.py
 ```
