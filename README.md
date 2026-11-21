@@ -6,7 +6,7 @@ An experimental research system combining brain MRI processing, stage classifica
 
 Qu-Alz began with a research question: could MRI-based stage classification be paired with a quantum-derived signal to support research into earlier Alzheimer's risk assessment?
 
-The resulting prototype connects medical-image processing, machine learning, quantum computation, and a web interface for reviewing the outputs together. It was first developed for SEA Quantathon 2025, where it placed first runner-up. The team later developed the work into a conference paper accepted for presentation at ASEAN IVO Forum 2025.
+The resulting prototype connects medical-image processing, machine learning, quantum computation, and a web interface for reviewing the outputs together. It was first developed for SEA Quantathon 2025, where it placed first runner-up. The team later developed the work into a conference paper that was presented at ASEAN IVO Forum 2025.
 
 ## Research workflow
 
@@ -68,7 +68,7 @@ The interface is a review surface for the prototype outputs; it is not a clinica
 ## Recognition and presentation
 
 - First runner-up, SEA Quantathon 2025
-- Conference paper accepted for presentation at ASEAN IVO Forum 2025: *Qu-Alz: Quantum-Enhanced Early Prediction of Alzheimer's in Southeast Asia*
+- Conference paper presented at ASEAN IVO Forum 2025: *Qu-Alz: Quantum-Enhanced Early Prediction of Alzheimer's in Southeast Asia*
 - [Project demonstration](https://drive.google.com/file/d/1VnYx8GrsQ_RTE0VKjCUbmoR_bjvI232j/view?usp=sharing)
 - [CERN Open Quantum Institute event report](https://open-quantum-institute.cern/asean-quantum-summit-2025-building-regional-collaboration-for-the-future-of-quantum-technology/)
 - [Official ASEAN IVO Forum program](https://www.nict.go.jp/en/asean_ivo/2025B_Forum_Program.html?channel=main)
